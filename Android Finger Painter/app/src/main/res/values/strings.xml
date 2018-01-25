@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coursework1</string>
+    <array name="brush_types">
+        <item>Round</item>
+        <item>Square</item>
+    </array>
+</resources>
